@@ -1,0 +1,8 @@
+# git ignore for C
+#
+
+# Object files
+*.o
+
+
+
